@@ -1,53 +1,55 @@
+<div align="center">
+
 # Hi 👋, I'm Aadesh
 
-### Backend Developer | DSA | AI/ML
+### Developer | Learner
 
-I'm an MCA graduate specializing in Artificial Intelligence
-and Machine Learning, currently focusing on building strong
-Java backend development skills.
+MCA graduate specializing in Artificial Intelligence & Machine Learning, passionate about building scalable Java backend solutions and intelligent applications. 
 
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
-### Languages
-Java • Python • SQL • HTML • CSS
 
-### Backend
-Spring Boot • Spring MVC • REST APIs • Maven • MySQL
+<img src="./assets/java.gif" width="100" alt="Java">
+<img src="./assets/html.gif" width="100" alt="HTML">
+<img src="./assets/css.gif" width="100" alt="CSS">
+<img src="./assets/docker.gif" width="100" alt="Docker">
+<img src="./assets/git.gif" width="100" alt="Git">
 
-### AI/ML
-PyTorch • OpenCV • ResNet50 • FAISS
+<br>
 
-### Tools
-Git • GitHub • Docker • Postman • VS Code
+<img src="./assets/copilot.gif" width="100" alt="Copilot">
+<img src="./assets/postman.gif" width="100" alt="Postman">
+<img src="./assets/python.gif" width="100" alt="Python">
+<img src="./assets/rest-api.gif" width="100" alt="REST API">
+<img src="./assets/springboot.gif" width="100" alt="Spring Boot">
+<img src="./assets/sql.gif" width="100" alt="SQL">
+<img src="./assets/vs.gif" width="100" alt="VS Code">
 
----
-
-## 🚀 Featured Projects
-
-### Task Management System API
-Java • Spring Boot • MySQL • REST API
-
-A backend API for managing users and tasks.
-
-### AI Visual Search Engine
-Python • FastAPI • PyTorch • ResNet50 • FAISS
-
-An image-based product search system using deep
-visual feature extraction and similarity search.
-
-### Driver Drowsiness Detection
-Python • OpenCV
-
-Computer vision system for detecting driver drowsiness.
+</div>
 
 
 ---
+
+<div align="center">
+
+## ✨ Curious About What I Build?
+
+<a href="https://aadesh-17.github.io/My_Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/👀_Explore_My_Portfolio-Click_Here-6C63FF?style=for-the-badge" alt="Explore My Portfolio">
+</a>
+
+<br><br>
 
 ## 🤝 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/aadesh-kudale)
+<a href="https://www.linkedin.com/in/aadesh-kudale/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:aadeshkudale7@gmail.com">Email</a>
 
-[Email](aadeshkudale7@gmail.com)
+</div>
