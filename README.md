@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Aadesh
 
-<!--
-**Aadesh-17/Aadesh-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | DSA | AI/ML
 
-Here are some ideas to get you started:
+I'm an MCA graduate specializing in Artificial Intelligence
+and Machine Learning, currently focusing on building strong
+Java backend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Java • Python • SQL • HTML • CSS
+
+### Backend
+Spring Boot • Spring MVC • REST APIs • Maven • MySQL
+
+### AI/ML
+PyTorch • OpenCV • ResNet50 • FAISS
+
+### Tools
+Git • GitHub • Docker • Postman • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### Task Management System API
+Java • Spring Boot • MySQL • REST API
+
+A backend API for managing users and tasks.
+
+### AI Visual Search Engine
+Python • FastAPI • PyTorch • ResNet50 • FAISS
+
+An image-based product search system using deep
+visual feature extraction and similarity search.
+
+### Driver Drowsiness Detection
+Python • OpenCV
+
+Computer vision system for detecting driver drowsiness.
+
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/aadesh-kudale)
+
+[Email](aadeshkudale7@gmail.com)
